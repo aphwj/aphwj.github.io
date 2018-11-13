@@ -17,16 +17,12 @@ Nazwisko: Piwowar<BR>
 <TABLE> 
   <TR style="font size; 40px;">
   <TD><P> Cześć. Nazywam się Ania. Jednym z moich hobby jest czytanie książek. W wolnej chwili sięgam po książki. Lubię je recenzować i polecać innym.
-</P>Oto moje zdjęcie. Zachęcam do przeczytania mojej strony. Może uda wam się przeczytać polecane przeze mnie książki.</P>
+</P>Oto moje zdjęcie. Jestem na środku. Zachęcam do przeczytania mojej strony. Może uda wam się przeczytać polecane przeze mnie książki.</P>
 <TD><IMG SRC="">ania.jpg</TD> 
   </TR> 
  
 <TD><IMG SRC="tyska.jpg">
- <TD><P>Coś o sobie muszę chyba napisać. Na pewno urodziłam się bo jestem tutaj, na Ziemi wśród nas.
-Urodziłam się w 21 wieku, i wszystko zapowiadało się całkiem nieźle dopóki nie musiałąm pójść do szkoły
-Wtedy zaczęły się schody. 
-</P>Niestety nie były to schody do nieba. Miałam na twarzy sporo piegów i
-to jak się póżniej okazało stało się powodem wielu niewybrednych żartów.</P></TD>
+ <TD><P>oto pierwsza książka. Przyznam że moja ulubiona. Opowiada o nastoletniej dziewczynie o imieniu Lara. Jest bardzo nieśmiała dlatego też jak się zakocha to pisze listy miłosne których nie ma zamiaru nigdy wysłać. Jednak wpadają one w ręce jej młodszej siostry która je wysyła. Jej życie całkowicie się zmienia.</P></TD>
   </TR> 
   <TR>
   <TD>
