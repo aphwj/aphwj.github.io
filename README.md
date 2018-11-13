@@ -21,7 +21,7 @@ Nazwisko: Piwowar<BR>
 <TD><IMG SRC="">ania.jpg</TD> 
   </TR> 
  
-<TD><IMG SRC="tyska.jpg">
+<TD><IMG SRC="do-wszystkich-chlopcow-ktorych-kochalam-w-iext53002415">
  <TD><P>oto pierwsza książka. Przyznam że moja ulubiona. Opowiada o nastoletniej dziewczynie o imieniu Lara. Jest bardzo nieśmiała dlatego też jak się zakocha to pisze listy miłosne których nie ma zamiaru nigdy wysłać. Jednak wpadają one w ręce jej młodszej siostry która je wysyła. Jej życie całkowicie się zmienia.</P></TD>
   </TR> 
   <TR>
